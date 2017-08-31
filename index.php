@@ -17,7 +17,7 @@
         
         <nav>
         <hr width= "50%" />
-        <a href="index.html">Home</a>
+        <a id = "aaa" href="index.php">Home</a>
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
         </nav>

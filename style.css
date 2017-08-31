@@ -27,9 +27,10 @@ nav a{
 }
 
 nav a:hover{
-    border-bottom: 2px orange solid;
+    border-bottom: 2px #FF69B4 solid;
     font-size: 2em;
     transition: .9s;
+    
 }
 
 
@@ -65,5 +66,17 @@ ul{
 }
 
 .h{
-    color:pink;
+    color:#FF69B4;
+}
+
+#aaa{
+    border-bottom: 2px #FF69B4 solid;
+}
+
+#bbb{
+    border-bottom: 2px #FF69B4 solid;
+}
+
+#ccc{
+    border-bottom: 2px #FF69B4 solid;
 }
