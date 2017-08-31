@@ -1,0 +1,69 @@
+body {
+   background-color: black; 
+   color: gray;
+    
+}
+
+header, main, navm footer {
+    text-align: center;
+}
+
+#me{
+    float: left;
+}
+
+#welcomeText{
+    text-align: left !important;
+}
+
+
+
+nav a{
+    padding:15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover{
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+
+footer{
+    clear: left;
+}
+
+table{
+    margin: 0px auto;
+    
+}
+
+td{
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong{
+    color:pink;
+}
+
+#table-header{
+    background-color: #351a00;
+}
+
+.tabler{
+    background-color: #753900;
+}
+
+ul{
+    text-align: left;
+    padding-left: 200px;
+}
+
+.h{
+    color:pink;
+}
